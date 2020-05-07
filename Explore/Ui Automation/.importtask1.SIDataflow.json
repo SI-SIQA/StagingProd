@@ -16,10 +16,10 @@
         "value" : "5gJM6ogelYwbLKNItSfBIX"
       }, {
         "name" : "version",
-        "value" : "4"
+        "value" : "9"
       } ],
       "additionalInfo" : {
-        "description" : null,
+        "description" : "changing the description",
         "contentType" : "Binary",
         "documentState" : "Undeployed"
       }
